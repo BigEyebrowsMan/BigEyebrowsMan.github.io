@@ -1,0 +1,102 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: typew;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.responsive {
+    width: 300px;
+    height: auto;
+    border-style: ridge;
+}
+
+body {
+    height: 2000px;
+    background-image: linear-gradient(180deg, #c2e59c, #64b3f4);
+}
+
+h1 {
+    color: #000000;
+    font-size: 50px;
+    font-family: y2k;
+    text-shadow: 0 0 3px #FF0000;
+}
+
+h6 {
+    color: #000000;
+    font-size: larger;
+    font-family: typew;
+}
+
+h2, h4 {
+    color: #000000;
+    font-size: larger;
+    font-family: typew;
+}
+
+p {
+    color: #000000;
+    margin: 0 auto; 
+    font-size: large;
+    font-family: typew;
+}
+
+.presentacio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+}
+
+.person {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; 
+    margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .presentacio {
+        flex-direction: column;
+    }
+}
+
+ @font-face {
+  font-family: y2k;
+  src: url(./font/y2k.ttf);
+}
+
+@font-face {
+    font-family: typew;
+    src: url(./font/typewriter.ttf);
+}
+
+img:hover {
+    transform: scale(115%);
+    transition-timing-function: ease-out;
+    transition: transform 3s;
+  }
+
+  html {
+    cursor: url("/img/cursor/kunai.cur"), auto
+  }

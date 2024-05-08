@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definición de tipos complejos para anime y manga -->
+  <xs:complexType name="animeType">
+    <xs:sequence>
+      <xs:element name="titol" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="imatge" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="generes">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="genere" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="any" type="xs:integer">
+        <xs:complexType>
+         <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="tipus_emissio" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="descripcion" type="xs:string">
+       <xs:complexType>
+         <xs:attribute type="xs:string" name="id"/>
+       </xs:complexType>
+       </xs:element>
+      <xs:element name="capitols">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="capitol" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id"/>
+  </xs:complexType>
+
+  <xs:complexType name="mangaType">
+    <xs:sequence>
+      <xs:element name="titol" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="imatge" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="generes">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="genere" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="any" type="xs:integer">
+        <xs:complexType>
+         <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="tipus_emissio" type="xs:string">
+        <xs:complexType>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="descripcion" type="xs:string">
+       <xs:complexType>
+         <xs:attribute type="xs:string" name="id"/>
+       </xs:complexType>
+      </xs:element>
+      <xs:element name="capitols">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="capitol" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute type="xs:string" name="id"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="id"/>
+  </xs:complexType>
+
+  <!-- Definición del catálogo como secuencia de animes y mangas -->
+  <xs:element name="cataleg">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="animes">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="anime" type="animeType"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="mangas">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="manga" type="mangaType"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

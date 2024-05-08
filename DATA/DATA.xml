@@ -1,0 +1,174 @@
+<cataleg>
+ 
+  <animes>
+    <anime id="1">
+      <titol id="Titol">Demon Slayer: Kimetsu no Yaiba</titol>
+      <imatge id="Cartelera">../img/kimetsu.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+      </generes>
+      <any id="Year">2019</any>
+      <tipus_emissio id="Tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">Estem a l'era Taisho del Japó. Tanjiro, un jove que es guanya la vida venent carbó, descobreix un dia que la seva família ha estat assassinada per un dimoni. Per empitjorar les coses, la seva germana petita Nezuko, l'única supervivent de la massacre, ha patit una transformació en dimoni. Destrossat pels esdeveniments Tanjiro decideix convertir-se en un caçador de dimonis per poder tornar la seva germana a la normalitat i matar al dimoni que va massacrar la seva família.
+      </descripcion>
+      <capitols>
+        <capitol>../kimetsu.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="5">
+      <titol id="Titol">One Punch Man</titol>
+      <imatge id="Cartelera">../img/one.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Comèdia</genere>
+      </generes>
+      <any id="year">2015</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">La sèrie està protagonitzada per un heroi que ha entrenat tant que s'ha quedat calb, i té tanta força que pot acabar amb qualsevol enemic d'un sol cop de puny. Tanmateix, al ser tan fort, s'avorreix i es frustra perquè no li costa res vèncer les seves batalles.
+      </descripcion>
+      <capitols>
+        <capitol>../one.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="9">
+      <titol id="Titol">Fairy Tail</titol>
+      <imatge id="Cartelera">../img/fairy.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Aventura</genere>
+        <genere>Fantasia</genere>
+      </generes>
+      <any id="year">2009</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">Fairy Tail narra la història d'un jove mag d'una gremial de mags anomenada Natsu a la recerca del seu mestre i pare adoptiu Igneel que resulta ser un drac. Per això es va unir a Fairy Tail, una gremial de mags que és famosa pels destrossos i danys que provoquen en diverses ciutats (la qual cosa no hauria de ser així).
+      </descripcion>
+      <capitols>
+        <capitol>../fairy.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="12">
+      <titol id="Titol">Red Line</titol>
+      <imatge id="Cartelera">../img/redline.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Horror</genere>
+      </generes>
+      <any id="year">2014</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">JP és un dels corredors més temeraris que existeix, aquest es prepara per a la cursa més perillosa i exigent de l'univers que es realitza cada 5 anys. JP no és l'únic a ell se li uneixen una sèrie de corredors temeraris que tenen la intenció d'inclús matar per guanyar la cursa entre aquests està Sonoshee una corredora per la JP està secretament enamorat.
+      </descripcion>
+      <capitols>
+        <capitol>../redline.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="16">
+      <titol id="Titol">Serial Experiments Lain </titol>
+      <imatge id="Cartelera">../img/lain.jpg </imatge>
+      <generes id="Generes">
+        <genere>Sci-Fi</genere>
+        <genere>Demencia</genere>
+        <genere>Drama</genere>
+        <genere>Misteri</genere>
+        <genere>Psicològic</genere>
+        <genere>Sobrenatural</genere>
+      </generes>
+      <any id="year">1998</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">Després del suicidi de una estudiant, els seus companys de l'escola començen a rebre extranys correus electrònics suposadament de Chisa, aquella estudiant. Lain Iwakura, per curiositat, intenta conèixer més com funciona aquesta entitat.
+      </descripcion>
+      <capitols>
+        <capitol>../lain.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="17">
+      <titol id="Titol"> Read Or Die </titol>
+      <imatge id="Cartelera">../img/rod.jpg </imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Fantasia</genere>
+      </generes>
+      <any id="year">2000</any>
+      <tipus_emissio id="tipus">OVA</tipus_emissio>
+      <descripcion id="Descripcio">James bond pero japo.
+      </descripcion>
+      <capitols>
+        <capitol>../rod.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="18">
+        <titol id="Titol"> Frieren: After Journey's End </titol>
+        <imatge id="Cartelera">../img/frieren.png </imatge>
+        <generes id="Generes">
+          <genere>Acció</genere>
+          <genere>Fantasia</genere>
+        </generes>
+        <any id="year">2023</any>
+        <tipus_emissio id="tipus">TV</tipus_emissio>
+        <descripcion id="Descripcio">Després d'haver derrotat al Rei Dimoni, el grup de l'heroi es separa i la longeva elfa Frieren, que pretanyía a aquest grup, desitga coneixer més a les persones. Comença una nova aventura dirreció a Ende, per retrovar-se amb els seus antics companys de aventures, fent noves amistats pel camí.
+        </descripcion>
+        <capitols>
+        <capitol>../frieren.html</capitol>
+      </capitols>
+      </anime>
+    <anime id="19">
+      <titol id="Titol"> FLCL </titol>
+      <imatge id="Cartelera">../img/flcl.jpg </imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Sci-Fi</genere>
+      </generes>
+      <any id="year">2000</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio"> El protagonsita Naota Nandaba es un noi de dotze anys que es relaciona amb una suposada extraterrestre Haruko, aixó li ha causat un extrany desordre hormonal que provoca que robots surtin del seu front.
+      </descripcion>
+      <capitols>
+        <capitol>../flcl.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="20">
+     <titol id="Titol"> Inuyasha </titol>
+     <imatge id="Cartelera">../img/inu.jpg </imatge>
+     <generes id="Generes">
+      <genere>Acció</genere>
+      <genere>Fantasia</genere>
+     </generes>
+     <any id="year">2000</any>
+     <tipus_emissio id="tipus">TV</tipus_emissio>
+     <descripcion id="Descripcio"> Semi-Dimoni wannabe s'enamora de una humana. 
+     </descripcion>
+     <capitols>
+        <capitol>../inuyasha.html</capitol>
+      </capitols>
+      </anime>
+    <anime id="21">
+        <titol id="Titol"> Evangelion </titol>
+        <imatge id="Cartelera">../img/evamovie.png </imatge>
+        <generes id="Generes">
+          <genere>Acció</genere>
+          <genere>Sci-Fi</genere>
+        </generes>
+        <any id="year">2021</any>
+        <tipus_emissio id="tipus">Movie</tipus_emissio>
+        <descripcion id="Descripcio"> Es masturba amb la seva xicota en coma.
+        </descripcion>
+        <capitols>
+            <capitol>../evangelion.html</capitol>
+      </capitols>
+    </anime>
+    <anime id="22">
+      <titol id="Titol"> Akira </titol>
+      <imatge id="Cartelera">../img/AKIRA.jpeg </imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Sci-Fi</genere>
+      </generes>
+      <any id="year">1988</any>
+      <tipus_emissio id="tipus">Movie</tipus_emissio>
+      <descripcion id="Descripcio"> Noi lluita per salvar el mon postapocalíptic del seu company de pastis que ha aconseguit poders alienígenes.
+      </descripcion>
+      <capitols>
+        <capitol>../akira.html</capitol>
+      </capitols>
+    </anime>
+  </animes>
+ </cataleg>

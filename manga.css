@@ -1,0 +1,138 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: typew;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-style: ridge;
+  }
+  
+  h1 {
+    color: #000000;
+    font-size: 50px;
+    font-family: y2k;
+    text-shadow: 0 0 3px #FF0000;
+}
+
+p {
+  color: #000000;
+  font-size: 20px;
+  font-family: typew;
+}
+
+body {
+  height: auto;
+    background-image: linear-gradient(180deg, #c2e59c, #64b3f4);
+  }
+
+  .row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.capçal {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.viewer-container {
+    padding: 1.5rem 0!important;
+    max-width: 98%;
+}
+
+@font-face {
+    font-family: y2k;
+    src: url(./font/y2k.ttf);
+  }
+  
+  @font-face {
+    font-family: typew;
+    src: url(./font/typewriter.ttf);
+  }
+
+  .col-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+html {
+  cursor: url("/img/cursor/kunai.cur"), auto
+}
+
+@media screen and (max-width: 600px) {
+  ul {
+    float: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  li {
+    width: 100%;
+  }
+
+  #phoneResponsive {
+    flex-direction: column; 
+  }
+
+ .responsive {
+    width: 100%; 
+    height: auto;
+    border-style: ridge;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  ul {
+    float: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  li {
+    width: 100%;
+  }
+
+  #phoneResponsive {
+    flex-direction: column; 
+  }
+
+ .responsive {
+    width: 100%; 
+    height: auto;
+    border-style: ridge;
+  }
+}

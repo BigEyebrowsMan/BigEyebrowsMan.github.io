@@ -1,0 +1,153 @@
+<cataleg>
+  <mangas>
+    <manga id="2">
+      <titol id="Titol">Shingeki no Kyojin</titol>
+      <imatge id="Cartelera">../img/atack.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Drama</genere>
+      </generes>
+      <any id="year">2009</any>
+      <tipus_emissio id="tipus">TV</tipus_emissio>
+      <descripcion id="Descripcio">La història ens trasllada a un món en què la humanitat va estar a punt de ser exterminada fa centenars d'anys pels titans. Els titans són enormes, semblen no ser intel·ligents i devoren éssers humans. El pitjor és que sembla que ho fan per plaer i no per alimentar-se. Una petita part de la humanitat ha aconseguit sobreviure protegint-se en una ciutat amb uns murs altsíssims, més alts que el major dels titans. La ciutat viu la seva vida tranquil·la, i fa més de 100 anys que cap gegant apareix per allà. Eren i la seva germana adoptiva Mikasa són encara uns adolescents quan veuen una cosa horrorosa: un gegant molt més gran que tots els que la humanitat havia conegut fins al moment està destruint els murs de la ciutat. No passa gaire temps fins que els gegants entren pel forat obert al mur i comencen a devorar la gent.
+      </descripcion>
+      <capitols>
+        <capitol>../shingeki1.html,../shingeki1.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="4">
+      <titol id="Titol">One Piece</titol>
+      <imatge id="Cartelera">../img/piece.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Aventura</genere>
+      </generes>
+      <any id="year">1997</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">Una història èpica de pirates, on narra la història de "Monkey D. Luffy" qui inspirat en "Gol D. Roger" i un pirata de nom Shanks el pel-roig es converteix en pirata desitjant ser el proper "Rei dels Pirates" i navegar per conèixer amics i tenir aventures amb ells, tenint com a meta trobar el "One Piece".
+      </descripcion>
+      <capitols>
+        <capitol>../onepiece1.html,../onepiece2.html,../onepiece3.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="6">
+      <titol id="Titol">Naruto</titol>
+      <imatge id="Cartelera">../img/naruto.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Aventura</genere>
+      </generes>
+      <any id="year">1999</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">Naruto, un aprenent de ninja de la Vila Oculta de Konoha és un noi travesser que desitja arribar a ser l'Hokage de la vila per demostrar a tots el que val. Naruto i els seus companys Sakura i Sasuke, juntament amb el seu mestre Kakashi hauran d'enfrontar-se a una sèrie de combats i missions al llarg de la història que els permetran millorar i créixer. Naruto es veurà enfrontat als seus principals enemics Akatsuki, Itachi i Kisame.
+      </descripcion>
+      <capitols>
+        <capitol>../naruto1.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="8">
+      <titol id="Titol">Dragon Ball</titol>
+      <imatge id="Cartelera">../img/db.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Aventura</genere>
+      </generes>
+      <any id="year">1984</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">Son Goku com a protagonista principal de la història, l'argument es centra en la recerca de les llegendàries esferes del drac, un total de set que en ser reunides donaven lloc a l'aparició del drac sagrat que pot concedir qualsevol desig. Goku, amb l'ajuda de la seva companya Bulma a més d'altres personatges que s'aniran unint amb el pas de la història, s'endinsarà en la recerca de les esferes del drac i desafiarà tot tipus de villains per convertir-se en l'home més fort del món.
+      </descripcion>
+      <capitols>
+        <capitol>dragonball1.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="10">
+      <titol id="Titol">Death Note</titol>
+      <imatge id="Cartelera">../img/note.jpg</imatge>
+      <generes id="Generes">
+        <genere>Thriller</genere>
+        <genere>Psicològic</genere>
+      </generes>
+      <any id="year">2003</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">Light Yagami és un excel·lent estudiant japonès que ha tingut una vida avorrida. Això canvia radicalment quan troba tirat al terra un quadern conegut com a Death Note (Llibreta de la Mort), un quadern perdut per Ryuk, un Shinigami (Dèu de la mort). Qualsevol humà el nom del qual estigui escrit al quadern morirà, i ara Light ha decidit utilitzar aquest poder per crear un món perfecte sense criminals. Però quan els criminals comencen a morir de forma massiva, les autoritats envien el llegat detectiu L a la recerca de l'assassí. Amb L al darrere, podrà mantenir Light el seu noble propòsit fins i tot arriscant la seva vida?
+      </descripcion>
+      <capitols>
+        <capitol>../deathnote1.html,../deathnote2.html,../deathnote3.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="14">
+      <titol id="Titol">Route 20</titol>
+      <imatge id="Cartelera">../img/route20.jpg</imatge>
+      <generes id="Generes">
+        <genere>Drama</genere>
+        <genere>Sci-Fi</genere>
+      </generes>
+      <any id="year">1993</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">És un manga sobre un nen que és part d'una banda de motoristes, i els problemas en que es fica pel camí. A Route 20 la gent viu en una ciutat de metall envoltada per una gran cúpula de vidre, protegint els habitants del aire contaminat del exterior. El protagonista busca la llibertat, a través de la seva moto.
+      </descripcion>
+      <capitols>
+        <capitol>../r20.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="15">
+      <titol id="Titol">DR.STONE</titol>
+      <imatge id="Cartelera">../img/drstone.jpg</imatge>
+      <generes id="Generes">
+        <genere>Adventure</genere>
+        <genere>Sci-Fi</genere>
+      </generes>
+      <any id="year">2017</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio">La humanitat va ser convretida en pedra per un misterios poder, acabant amb la civilització i la destrucció de les ciutats. Cap a 2000 anys després, Senku, el protagonista, torna a la normalitat després d'haver-se mantingut conscient durant tots aquestos anys  i li toca restaurar la civilització desde 0. 
+      </descripcion>
+      <capitols>
+        <capitol>../drstone1.html,../drstone2.html,../drstone3.html</capitol>
+      </capitols>
+    </manga>
+    <manga id="16">
+      <titol id="Titol">Hellboy</titol>
+      <imatge id="Cartelera">../img/hellboy.jpg</imatge>
+      <generes id="Generes">
+        <genere>Acció</genere>
+        <genere>Sci-Fi</genere>
+      </generes>
+      <any id="year">1994</any>
+      <tipus_emissio id="tipus">Còmic</tipus_emissio>
+      <descripcion id="Descripcio"> Durant la guerra contra el nazisme, tots-dos bandos recurreixen a lo sobrenatural per sortir victoriosos del conflicte. Als EE.UU., Hellboy pertany a un grup de investigació sobrenatural que ara haurà de visitar la mansió Cavendish Hall, sobre la que es comenta que pesa una maldició.
+      </descripcion>
+      <capitols>
+        <capitol>???</capitol>
+      </capitols>
+    </manga>
+    <manga id="25">
+      <titol id="Titol">Once and Future</titol>
+      <imatge id="Cartelera">../img/once.png</imatge>
+      <generes id="Generes">
+        <genere>Thriller</genere>
+      </generes>
+      <any id="year">2018</any>
+      <tipus_emissio id="tipus">Còmic</tipus_emissio>
+      <descripcion id="Descripcio"> Asesino malo me quiere linchar. 
+      </descripcion>
+      <capitols>
+        <capitol>???</capitol>
+      </capitols>
+    </manga>
+    <manga id="26">
+      <titol id="Titol">Monster</titol>
+      <imatge id="Cartelera">../img/monster.jpg</imatge>
+      <generes id="Generes">
+        <genere>Drama</genere>
+        <genere>Mystery</genere>
+      </generes>
+      <any id="year">2018</any>
+      <tipus_emissio id="tipus">Manga</tipus_emissio>
+      <descripcion id="Descripcio"> La història segueix al brillant neurocirurgià Dr. Kenzou Tenma, qui es veu immers en una intrincada trama després de salvar la vida d'un nen anomenat Johan, qui més tard es converteix en un perillós assassí en sèrie. La narrativa es centra en la recerca de Tenma per aturar en Johan i desemmascarar el seu passat fosc, mentre s'enfronta a dilemes ètics i confronta les repercussions de les seves pròpies decisions. Amb personatges complexos i giragonses inesperats, "Monster" explora temes de moralitat, redempció i el costat fosc de la humanitat, oferint una experiència narrativa emocionant i reflexiva.
+      </descripcion>
+      <capitols>
+        <capitol>../monster1.html, ../monster2.html,../monster3.html</capitol>
+      </capitols>
+    </manga>
+  </mangas>
+</cataleg>

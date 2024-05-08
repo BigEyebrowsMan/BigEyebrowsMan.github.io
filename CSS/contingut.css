@@ -1,0 +1,101 @@
+ul#Header {
+    list-style-type: none;
+    margin: 0;
+    margin-left: 3rem;
+    padding: 0;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  
+li#Homebutton{
+    float: left;
+}
+li#Seasonalsbutton,#Librarybutton,#Theaterbutton,#Aboutbutton{
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #555;
+}
+
+.content{
+display: block;
+}
+
+.Titol{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: center;
+    font-size:xx-large;
+}
+
+.Portada {
+    height: 400px;
+    width: auto;  
+    object-fit: cover;
+    display: block;
+    padding: 1rem;
+    border-top: 3px solid #bbb;
+    border-style: ridge;
+}
+
+#Descripcio {
+    display: table-cell;
+    float: right;
+    padding: 1%;
+    
+}
+#leftMargin {
+    float: left;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    margin-bottom: 100%;
+}
+#rightMargin {
+    float: right;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-bottom: 100%;
+}
+
+#Generes {
+    padding-bottom: 5rem;
+    float:center;
+    color:black;
+}
+.description {
+    display: table-cell;
+    height: auto;
+    width: auto;  
+    object-fit: cover;
+    float:right;
+    width: 40%;
+}
+.Capitols {
+    background-color: #bbb;
+    border: gray 5px solid;
+    display: block;
+    margin-top:5%;
+    margin-left:15%;
+    margin-right: 15%;
+    width: 70%;
+    box-shadow: 10px 5px;
+}   
+.capLink {
+    float:center;
+    width: 100%;
+    height: 100%;
+}
+
+ul.EpList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
